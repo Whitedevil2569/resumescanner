@@ -1,0 +1,16 @@
+.chatbot-popup{
+    color:light black;
+    font-family: cursive;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    display: flex;
+}
+.chat-form{
+    box-sizing: border-box;
+    box-shadow: 2px,2px;
+    color:red;
+}
+.chat-footer{
+    color:red;
+}
